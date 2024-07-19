@@ -1,0 +1,75 @@
+@media(min-width: 1200px){
+    .mobile{
+        display: none;
+    }
+}
+
+
+.head{
+    display: flex;
+    
+}
+
+.head2{
+    display: flex;
+    margin-left: 30%;
+}
+.head2 ul{
+    display: flex;
+}
+.head2 ul li{
+    display: inline-flex;
+    padding-left: 2%;
+    padding-right: 7%;
+}
+.sub{
+    background-image: url(images/bella2.jpg);
+    background-size: cover;
+    height: 50vh;
+    
+}
+.text{
+    display: flex;
+}
+.text1{
+    margin-left: 25%;
+
+}
+.text2{
+    margin-left: 15%;
+}
+
+@media screen and (max-width: 768px) {
+    .desktop{
+        display: none;
+    }
+    
+}
+.next{
+    display: inline-block;
+
+}
+.next2{
+    width: 35%;
+    height: 100px;
+}
+.main{
+    background-image: url(images/bella2.jpg);
+    background-size: cover;
+    height: 50vh;
+}
+.main3{
+    display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
